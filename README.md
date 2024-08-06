@@ -4,10 +4,12 @@ Return
 fun main (){
 
    var x = sayHello()
+   
    println(x)
    
    
    var y = sayHi()
+   
    println(y)
    }
 
